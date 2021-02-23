@@ -88,7 +88,7 @@ def orderfilledcheck(orderid):
     return isfilled
 
 
-signin("superseth5374@yahoo.com", "Inw!td@n3w!")
+signin("superseth5374@yahoo.com", "____________")
 ticker = input("enter ticker")
 print("This is the current price of " + ticker)
 print(currentstockprice(ticker))
